@@ -55,7 +55,7 @@ const App: React.FC = () => {
   };
 
   return (
-    <div className="max-w-md mx-auto px-4 py-8 bg-slate-300">
+  <div className="max-w-md mx-auto px-4 py-8 bg-gray-200">
       <h1 className="text-3xl font-bold mb-4 text-blue-600">Task Management App</h1>
 
       {editTask ? (
