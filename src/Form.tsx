@@ -43,7 +43,7 @@ const TaskForm: React.FC<TaskFormProps> = ({
 
   return (
     <form
-      className="max-w-md mx-auto bg-gray-400 shadow-md rounded px-8 pt-6 pb-8 mb-4 space-y-4"
+      className="max-w-md mx-auto bg-gray-300 shadow-md rounded px-8 pt-6 pb-8 mb-4 space-y-4"
       onSubmit={handleSubmit}
     >
       <div className="flex flex-col ">
